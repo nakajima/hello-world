@@ -1,5 +1,5 @@
 module Hello
   class World
-    # Cool
+    exit 1
   end
 end
