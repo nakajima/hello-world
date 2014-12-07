@@ -1,5 +1,5 @@
 module Hello
   class World
-    exit 1
+    # This should just be a comment
   end
 end
