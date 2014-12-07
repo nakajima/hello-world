@@ -1,4 +1,4 @@
 task :default do
   puts "Cool"
-  exit
+  exit 1
 end
